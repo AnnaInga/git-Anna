@@ -1,8 +1,7 @@
 <img src="https://img.freepik.com/premium-vector/smiling-woman-avatar-cartoon-female-character-portrait_53562-19295.jpg?w=740" width="100">
 
-## ***Карагодина Анна***
+# Карагодина Анна #
 
-***
 
 **Дата рождения**
 
